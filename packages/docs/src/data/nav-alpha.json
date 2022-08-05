@@ -144,7 +144,8 @@
       "tabs",
       "theme-providers",
       "timelines",
-      "toolbars"
+      "toolbars",
+      "virtual-scroller"
     ]
   },
   {
