@@ -68,4 +68,8 @@ export default {
       item: 'Note de {0} sur {1}',
     },
   },
+  infiniteScroll: {
+    loadMore: 'Load more',
+    empty: 'No more',
+  },
 }

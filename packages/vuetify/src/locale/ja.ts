@@ -68,4 +68,8 @@ export default {
       item: '評価 {1} のうち {0}',
     },
   },
+  infiniteScroll: {
+    loadMore: 'Load more',
+    empty: 'No more',
+  },
 }

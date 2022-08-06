@@ -68,4 +68,8 @@ export default {
       item: 'Оцена {0} од {1}',
     },
   },
+  infiniteScroll: {
+    loadMore: 'Load more',
+    empty: 'No more',
+  },
 }

@@ -68,4 +68,8 @@ export default {
       item: 'Rating {0} of {1}',
     },
   },
+  infiniteScroll: {
+    loadMore: 'Load more',
+    empty: 'No more',
+  },
 }
